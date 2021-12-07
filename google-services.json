@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243207629939",
+    "project_id": "saathwale-44b43",
+    "storage_bucket": "saathwale-44b43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243207629939:android:bbad3acb4027291e6e4e06",
+        "android_client_info": {
+          "package_name": "com.example.saathwale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243207629939-f22ilibfiup27u852j82mmfd61qk2h0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD41NGzb7CMP5oloo3ZTBxxVWpUuxCzjW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243207629939-f22ilibfiup27u852j82mmfd61qk2h0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
